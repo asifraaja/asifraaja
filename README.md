@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asif
-- 👀 I’m interested in backend development
-- 🌱 I’m currently learning reactive java
+- 👀 I’m interested in developing web applications using Java, Spring.
+- 🌱 I’m currently learning Data science
 - 💞️ I’m looking to collaborate on spring related projects
 - 📫 How to reach me ...
 
